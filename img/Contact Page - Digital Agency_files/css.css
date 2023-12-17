@@ -1,0 +1,59 @@
+body 
+ {
+	 font-family: Tribuchet ; 
+ }
+ header, footer, section , article 
+ {
+	 background-color : white ;
+border : 1px grey solid ; 
+margin : 0px ; 
+padding : 8px ; 
+
+	 
+ }
+ header, footer 
+ {
+background-color : #444 ; 
+color : white ; 	
+ }
+ section 
+ {
+	background-color : #ddd ;  
+ }
+footer {
+background-color:red;
+color:white;
+}
+a {
+  text-decoration: none;
+}
+a:link {color:red;}    
+a:visited {color:black;}
+a:hover {color:yellow;} 
+a:active {color:green;}
+h3 {
+  text-decoration: underline;
+color:red;
+font-size: 50px;
+padding: 10px;
+margin :10px;
+}
+form {
+width:500 px; 
+padding: 20px;
+background-color:#f2f2f2;
+}
+.btn {
+background-color:#DED983;
+color: #345071;
+font-family: Tribuchet MS;
+width: 45.354330708661415px;
+height:45.354330708661415px;
+}
+input{ width: 100%;
+padding:12px;
+margin:8px;
+border-style:solid;
+border-color:#ccc;
+border-width: 1px;
+}
